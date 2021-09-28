@@ -2,6 +2,6 @@ Neafisha - мобильное PWA-приложение по поиску лок�
 
 Стек:
 JavaScript, HTML, CSS
-Node JS, PostgreSQL, Sequelize
-Express JS, AJAX, Express sessions
+Node JS, PostgreSQL, Sequelize,
+Express JS, AJAX, Express sessions,
 React, Redux
