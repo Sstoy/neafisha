@@ -1,7 +1,11 @@
-Neafisha - мобильное PWA-приложение по поиску локальных событий в Санкт-Петербурге, с использованием API Яндекс.Карт.
+## Neafisha
+### Мобильное PWA-приложение по поиску локальных событий в Санкт-Петербурге, с использованием API Яндекс.Карт.
 
-Стек:
-JavaScript, HTML, CSS,
-Node JS, PostgreSQL, Sequelize,
-Express JS, AJAX, Express sessions,
-React, Redux
+## Стек технологий:
+JavaScript
+
+**DB**: PostgreSQL, Sequelize ORM
+
+**Back**: Node.js, Express, Sessions, Bcrypt, Cors, Stripe
+
+**Front**: React + Redux, SVG, HTML5, CSS
